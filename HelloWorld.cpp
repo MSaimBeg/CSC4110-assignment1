@@ -1,4 +1,6 @@
 // Simple C++ program to display "Hello World" 
+// Author: Mirza Saim Beg <m.saim.beg@gmail.com>
+
 // Header file for input output functions 
 #include<iostream>  
   
